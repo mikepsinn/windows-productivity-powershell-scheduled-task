@@ -1,0 +1,2 @@
+https://github.com/mikepsinn/qm-api/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aemergency
+https://workona.com/0/f1a083
